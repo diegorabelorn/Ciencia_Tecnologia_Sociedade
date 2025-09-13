@@ -20,7 +20,7 @@ Durante o curso, abordei temas essenciais como:
 
 **Redes Sociais**: Analisei o papel das plataformas digitais na comunicação, formação de comunidades e disseminação de informações e desinformação.
 
-Além dos textos e discussões, um dos projetos práticos foi a criação de um VLOG de reação sobre o tema <u>"A Educação e o Aluno do Século XXI" </u>, que me permitiu aplicar esses conceitos de forma criativa e crítica.
+Além dos textos e discussões, um dos projetos práticos foi a criação de um VLOG de reação sobre o tema <u> "A Educação e o Aluno do Século XXI" </u>, que me permitiu aplicar esses conceitos de forma criativa e crítica.
 <div align="center">
 <img src="img/A educação e o aluno do século XXI.jpg" alt="Gráfico de desempenho do sistema" width="300"/>
 </div>
