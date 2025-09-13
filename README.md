@@ -22,4 +22,6 @@ Redes Sociais: Analisei o papel das plataformas digitais na comunicação, forma
 
 Além dos textos e discussões, um dos projetos práticos foi a criação de um VLOG de reação sobre o tema "A Educação e o Aluno do Século XXI", que me permitiu aplicar esses conceitos de forma criativa e crítica.
 
+<img src="img/A educação e o aluno do século XXI.jpg" alt="Gráfico de desempenho do sistema" width="300"/>
+
 Este curso expandiu minha visão sobre como a ciência e a tecnologia não são apenas ferramentas, mas forças culturais e sociais que exigem uma reflexão constante e uma abordagem ética.
