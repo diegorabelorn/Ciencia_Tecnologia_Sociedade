@@ -1,6 +1,6 @@
 # Ciencia_Tecnologia_Sociedade
 
-![Gráfico de desempenho do sistema](img/CTS.png)
+<img src="img/CTS.png" alt="Gráfico de desempenho do sistema" width="300"/>
 
 Nesta disciplina, explorei as complexas interações entre a ciência, a tecnologia e o nosso mundo. Em vez de simplesmente definir esses campos, o foco foi entender como eles moldam e são moldados pela sociedade em que vivemos.
 
