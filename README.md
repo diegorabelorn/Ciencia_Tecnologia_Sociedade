@@ -1,5 +1,6 @@
 # Ciencia_Tecnologia_Sociedade
 
+![Ciência, Tecnologia e Sociedade](img/CTS.png)
 
 Nesta disciplina, explorei as complexas interações entre a ciência, a tecnologia e o nosso mundo. Em vez de simplesmente definir esses campos, o foco foi entender como eles moldam e são moldados pela sociedade em que vivemos.
 
