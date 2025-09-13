@@ -2,7 +2,7 @@
 <div align="center">
 <img src="img/CTS.png" alt="Gráfico de desempenho do sistema" width="200"/>
 </div>
-Nesta disciplina, explorei as complexas interações entre a ciência, a tecnologia e o nosso mundo. Em vez de simplesmente definir esses campos, o foco foi entender como eles moldam e são moldados pela sociedade em que vivemos.
+2021.1 - Nesta disciplina, explorei as complexas interações entre a ciência, a tecnologia e o nosso mundo. Em vez de simplesmente definir esses campos, o foco foi entender como eles moldam e são moldados pela sociedade em que vivemos.
 
 Durante o curso, abordei temas essenciais como:
 
